@@ -1,0 +1,3256 @@
+fileFormatVersion: 2
+guid: 4b19d759a5ca3044d9a09658ffcabd2d
+timeCreated: 1480707888
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: STEVE_0
+    21300002: STEVE_1
+    21300004: STEVE_2
+    21300006: STEVE_3
+    21300008: STEVE_4
+    21300010: STEVE_5
+    21300012: STEVE_6
+    21300014: STEVE_7
+    21300016: STEVE_8
+    21300018: STEVE_9
+    21300020: STEVE_10
+    21300022: STEVE_11
+    21300024: STEVE_12
+    21300026: STEVE_13
+    21300028: STEVE_14
+    21300030: STEVE_15
+    21300032: STEVE_16
+    21300034: STEVE_17
+    21300036: STEVE_18
+    21300038: STEVE_19
+    21300040: STEVE_20
+    21300042: STEVE_21
+    21300044: STEVE_22
+    21300046: STEVE_23
+    21300048: STEVE_24
+    21300050: STEVE_25
+    21300052: STEVE_26
+    21300054: STEVE_27
+    21300056: STEVE_28
+    21300058: STEVE_29
+    21300060: STEVE_30
+    21300062: STEVE_31
+    21300064: STEVE_32
+    21300066: STEVE_33
+    21300068: STEVE_34
+    21300070: STEVE_35
+    21300072: STEVE_36
+    21300074: STEVE_37
+    21300076: STEVE_38
+    21300078: STEVE_39
+    21300080: STEVE_40
+    21300082: STEVE_41
+    21300084: STEVE_42
+    21300086: STEVE_43
+    21300088: STEVE_44
+    21300090: STEVE_45
+    21300092: STEVE_46
+    21300094: STEVE_47
+    21300096: STEVE_48
+    21300098: STEVE_49
+    21300100: STEVE_50
+    21300102: STEVE_51
+    21300104: STEVE_52
+    21300106: STEVE_53
+    21300108: STEVE_54
+    21300110: STEVE_55
+    21300112: STEVE_56
+    21300114: STEVE_57
+    21300116: STEVE_58
+    21300118: STEVE_59
+    21300120: STEVE_60
+    21300122: STEVE_61
+    21300124: STEVE_62
+    21300126: STEVE_63
+    21300128: STEVE_64
+    21300130: STEVE_65
+    21300132: STEVE_66
+    21300134: STEVE_67
+    21300136: STEVE_68
+    21300138: STEVE_69
+    21300140: STEVE_70
+    21300142: STEVE_71
+    21300144: STEVE_72
+    21300146: STEVE_73
+    21300148: STEVE_74
+    21300150: STEVE_75
+    21300152: STEVE_76
+    21300154: STEVE_77
+    21300156: STEVE_78
+    21300158: STEVE_79
+    21300160: STEVE_80
+    21300162: STEVE_81
+    21300164: STEVE_82
+    21300166: STEVE_83
+    21300168: STEVE_84
+    21300170: STEVE_85
+    21300172: STEVE_86
+    21300174: STEVE_87
+    21300176: STEVE_88
+    21300178: STEVE_89
+    21300180: STEVE_90
+    21300182: STEVE_91
+    21300184: STEVE_92
+    21300186: STEVE_93
+    21300188: STEVE_94
+    21300190: STEVE_95
+    21300192: STEVE_96
+    21300194: STEVE_97
+    21300196: STEVE_98
+    21300198: STEVE_99
+    21300200: STEVE_100
+    21300202: STEVE_101
+    21300204: STEVE_102
+    21300206: STEVE_103
+    21300208: STEVE_104
+    21300210: STEVE_105
+    21300212: STEVE_106
+    21300214: STEVE_107
+    21300216: STEVE_108
+    21300218: STEVE_109
+    21300220: STEVE_110
+    21300222: STEVE_111
+    21300224: STEVE_112
+    21300226: STEVE_113
+    21300228: STEVE_114
+    21300230: STEVE_115
+    21300232: STEVE_116
+    21300234: STEVE_117
+    21300236: STEVE_118
+    21300238: STEVE_119
+    21300240: STEVE_120
+    21300242: STEVE_121
+    21300244: STEVE_122
+    21300246: STEVE_123
+    21300248: STEVE_124
+    21300250: STEVE_125
+    21300252: STEVE_126
+    21300254: STEVE_127
+    21300256: STEVE_128
+    21300258: STEVE_129
+    21300260: STEVE_130
+    21300262: STEVE_131
+    21300264: STEVE_132
+    21300266: STEVE_133
+    21300268: STEVE_134
+    21300270: STEVE_135
+    21300272: STEVE_136
+    21300274: STEVE_137
+    21300276: STEVE_138
+    21300278: STEVE_139
+    21300280: STEVE_140
+    21300282: STEVE_141
+    21300284: STEVE_142
+    21300286: STEVE_143
+    21300288: STEVE_144
+    21300290: STEVE_145
+    21300292: STEVE_146
+    21300294: STEVE_147
+    21300296: STEVE_148
+    21300298: STEVE_149
+    21300300: STEVE_150
+    21300302: STEVE_151
+    21300304: STEVE_152
+    21300306: STEVE_153
+    21300308: STEVE_154
+    21300310: STEVE_155
+    21300312: STEVE_156
+    21300314: STEVE_157
+    21300316: STEVE_158
+    21300318: STEVE_159
+    21300320: STEVE_160
+    21300322: STEVE_161
+    21300324: STEVE_162
+    21300326: STEVE_163
+    21300328: STEVE_164
+    21300330: STEVE_165
+    21300332: STEVE_166
+    21300334: STEVE_167
+    21300336: STEVE_168
+    21300338: STEVE_169
+    21300340: STEVE_170
+    21300342: STEVE_171
+    21300344: STEVE_172
+    21300346: STEVE_173
+    21300348: STEVE_174
+    21300350: STEVE_175
+    21300352: STEVE_176
+    21300354: STEVE_177
+    21300356: STEVE_178
+    21300358: STEVE_179
+    21300360: STEVE_180
+    21300362: STEVE_181
+    21300364: STEVE_182
+    21300366: STEVE_183
+    21300368: STEVE_184
+    21300370: STEVE_185
+    21300372: STEVE_186
+    21300374: STEVE_187
+    21300376: STEVE_188
+    21300378: STEVE_189
+    21300380: STEVE_190
+    21300382: STEVE_191
+    21300384: STEVE_192
+    21300386: STEVE_193
+    21300388: STEVE_194
+    21300390: STEVE_195
+    21300392: STEVE_196
+    21300394: STEVE_197
+    21300396: STEVE_198
+    21300398: STEVE_199
+    21300400: STEVE_200
+    21300402: STEVE_201
+    21300404: STEVE_202
+    21300406: STEVE_203
+    21300408: STEVE_204
+    21300410: STEVE_205
+    21300412: STEVE_206
+    21300414: STEVE_207
+    21300416: STEVE_208
+    21300418: STEVE_209
+    21300420: STEVE_210
+    21300422: STEVE_211
+    21300424: STEVE_212
+    21300426: STEVE_213
+    21300428: STEVE_214
+    21300430: STEVE_215
+    21300432: STEVE_216
+    21300434: STEVE_217
+    21300436: STEVE_218
+    21300438: STEVE_219
+    21300440: STEVE_220
+    21300442: STEVE_221
+    21300444: STEVE_222
+    21300446: STEVE_223
+    21300448: STEVE_224
+    21300450: STEVE_225
+    21300452: STEVE_226
+    21300454: STEVE_227
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: STEVE_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 880
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 880
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 880
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 900
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 905
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 897
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 897
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 897
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 899
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 897
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_10
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 871
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 871
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_12
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 871
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_13
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 871
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_14
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 871
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_15
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 871
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 871
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_17
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 871
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 861
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_19
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 862
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 860
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 860
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 862
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 862
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 860
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 860
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_26
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 849
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 849
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_28
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 849
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 851
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_30
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 851
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 851
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_32
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 809
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_33
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 809
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_34
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 809
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_35
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 809
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 839
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 841
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_38
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 837
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_39
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 838
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_40
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 840
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_41
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 840
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_42
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 838
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_43
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 839
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_44
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 824
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 811
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_46
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 811
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_47
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 811
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_48
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 816
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_49
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 816
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 816
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_51
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 771
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_52
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 774
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_53
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 775
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_54
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 771
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_55
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 774
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_56
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 775
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_57
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 791
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_58
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 793
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_59
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 777
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_60
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 777
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_61
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 732
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_62
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 732
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 759
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_64
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 759
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_65
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 759
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_66
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 760
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_67
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 760
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_68
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 760
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_69
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 743
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_70
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 732
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_71
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 749
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_72
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 751
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_73
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 751
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 750
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_75
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 750
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_76
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 723
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_77
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 723
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_78
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 723
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 723
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_80
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 723
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_81
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 722
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_82
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 724
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_83
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 741
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_84
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 739
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_85
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 741
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_86
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 739
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_87
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 738
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_88
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 739
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_89
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 717
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_90
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 719
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_91
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 719
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_92
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 707
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_93
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 705
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_94
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 661
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_95
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 661
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_96
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 660
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_97
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 660
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 660
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_99
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 656
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_100
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 660
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_101
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 660
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_102
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 660
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_103
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 660
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_104
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 655
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_105
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 658
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_106
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 658
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_107
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 658
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_108
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 658
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_109
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 643
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_110
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 564
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_111
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 578
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_112
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 564
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_113
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 564
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_114
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 571
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_115
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 562
+        width: 19
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_116
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 563
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_117
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 563
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_118
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 563
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_119
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 574
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_120
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 563
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_121
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 563
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_122
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 559
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_123
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 559
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_124
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 559
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_125
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 546
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_126
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 546
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_127
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 545
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_128
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 547
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_129
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 546
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_130
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 548
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_131
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 546
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_132
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 546
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_133
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 463
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_134
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 463
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_135
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 463
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_136
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 463
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_137
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 463
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_138
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 463
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_139
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 463
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_140
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 463
+        width: 55
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_141
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 465
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_142
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 465
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_143
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 465
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_144
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 465
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_145
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 465
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_146
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 465
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_147
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 449
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_148
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 346
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_149
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 346
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_150
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 346
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_151
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 346
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_152
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 345
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_153
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 345
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_154
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 345
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_155
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 263
+        width: 87
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_156
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 263
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_157
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 263
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_158
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 265
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_159
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 265
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_160
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 286
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_161
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 286
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_162
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 286
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_163
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 286
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_164
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 163
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_165
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 245
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_166
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 245
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_167
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 246
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_168
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 246
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_169
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 167
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_170
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 167
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_171
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 167
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_172
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 167
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_173
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 162
+        width: 94
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_174
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 207
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_175
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 207
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_176
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 210
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_177
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 209
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_178
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 168
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_179
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 169
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_180
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 167
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_181
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 172
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_182
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 93
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_183
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 93
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_184
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 93
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_185
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 93
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_186
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 93
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_187
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 93
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_188
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 93
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_189
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 93
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_190
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 102
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_191
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 94
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_192
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 94
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_193
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 94
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_194
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 94
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_195
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 99
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_196
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 94
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_197
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 94
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_198
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_199
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 78
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_200
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 78
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_201
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 79
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_202
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 7
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_203
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_204
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 4
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_205
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 4
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_206
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 51
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_207
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 49
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_208
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 49
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_209
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 28
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_210
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 7
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_211
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 7
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_212
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 39
+        width: 63
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_213
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 7
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_214
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 18
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_215
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 18
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_216
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 18
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_217
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 18
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_218
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 18
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_219
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 18
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_220
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 18
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_221
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 18
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_222
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 18
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_223
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 18
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_224
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 18
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_225
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 18
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_226
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 18
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: STEVE_227
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 7
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
